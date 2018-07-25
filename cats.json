@@ -1,1 +1,111 @@
 
+[
+  {
+    "id": 145,
+    "name": "Madayegdeg City",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/hehe.jpg",
+    "price": 20,
+    "priceCurency": "km",
+    "lat": 16.600191,
+    "lng": 120.316639
+  },
+  {
+    "id": 148,
+    "name": "eiffel tower",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/paris-photo-699466.jpeg",
+    "price": 2000,
+    "priceCurrency": "km",
+    "lat": 48.858370,
+    "lng": 2.294481
+  },
+  {
+    "id": 201,
+    "name": "Greatwall of china",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/1200px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "price": 2678.59,
+    "priceCurrency": "km",
+    "lat": 40.434772,
+    "lng": 116.566097
+  },
+  {
+    "id": 205,
+    "name": "Chocolate hills bohol",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/Chocolate_Hills_overview.JPG",
+    "price": 1194,
+    "priceCurrency": "km",
+    "lat": 9.829708,
+    "lng": 124.139676
+  },
+  {
+    "id": 210,
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/boracay-483535221_super.jpg",
+    "price": 710,
+    "priceCurrency": "km",
+    "lat": 11.967375,
+    "lng": 121.924815
+  },
+  {
+    "id": 211,
+    "name": "Banaue rice terraces",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/banawe_2018-06-28_18-33-03.jpg",
+    "price": 357,
+    "priceCurrency": "km",
+    "lat": 16.923954,
+    "lng": 121.055640
+  },
+  {
+    "id": 145,
+    "name": "taal lake",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/taal-lake-philippines-luzon.jpg",
+    "price": 360,
+    "priceCurrency": "km",
+    "lat": 13.975034,
+    "lng": 121.022042
+  },
+  {
+    "id": 148,
+    "name": "Legaspi albay",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/albay.jpg",
+    "price": 765,
+    "priceCurrency": "km",
+    "lat": 13.139062,
+    "lng": 123.743800
+  },
+  {
+    "id": 201,
+    "name": "Baguio",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/Baguio-Lions-Head.jpg",
+    "price": 56.7,
+    "priceCurrency": "km",
+    "lat": 16.367559,
+    "lng": 120.606050
+  },
+  {
+    "id": 205,
+    "name": "SkyRanch",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/8%20Skyranch%20Pampanga.jpg",
+    "price": 343,
+    "priceCurrency": "km",
+    "lat": 120.606050,
+    "lng": 120.696825
+  },
+  {
+    "id": 210,
+    "name": "magellans cross cebu",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/cross.jpg",
+    "price": 1122,
+    "priceCurrency": "km",
+    "lat": 10.293567,
+    "lng": 123.901949
+  },
+  {
+    "id": 211,
+    "name": "Banaue rice terraces",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/banawe_2018-06-28_18-33-03.jpg",
+    "price": 357,
+    "priceCurrency": "km",
+    "lat": 16.923954,
+    "lng": 121.055640
+  }
+  ]
